@@ -1,2 +1,2 @@
-# GutierrezLuisSO26B
-Repositorio para la UASO26B Evidencias del periodo
+# GutierrezLuis_2O26_B
+Repositorio para la UASO26B de evidencias del periodo
